@@ -1,0 +1,5 @@
+<launch>
+
+  <node pkg="ros_wrapper_package" type="sim_ros_wrapper.py" name="sim_ros_wrapper" output="screen"/>
+
+</launch>
